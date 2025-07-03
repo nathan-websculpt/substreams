@@ -65,9 +65,10 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible
 	github.com/shopspring/decimal v1.3.1
 	github.com/streamingfast/dmetering v0.0.0-20241101155221-489f5a9d9139
-	github.com/streamingfast/dmetrics v0.0.0-20230919161904-206fa8ebd545
+	github.com/streamingfast/dmetrics v0.0.0-20240214191810-524a5c58fbaa
 	github.com/streamingfast/sf-tracing v0.0.0-20240430173521-888827872b90
 	github.com/streamingfast/shutter v1.5.0
+	github.com/streamingfast/substreams-foundational-store v0.0.0-20250617193409-beadb4d795d7
 	github.com/streamingfast/substreams-sdk-go v0.0.0-20240110154316-5fb21a7a330b
 	github.com/streamingfast/substreams-sink-sql v1.0.1-0.20231127153906-acf5f3e34330
 	github.com/test-go/testify v1.1.4
